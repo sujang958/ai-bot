@@ -1,0 +1,17 @@
+{
+  "name": "ai-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dialogflow": "^4.0.3",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
