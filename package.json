@@ -10,8 +10,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/dialogflow": "^3.3.0",
+    "cryptr": "^6.0.2",
     "dialogflow": "^4.0.3",
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.4",
+    "node-fetch": "^2.6.1"
   }
 }
